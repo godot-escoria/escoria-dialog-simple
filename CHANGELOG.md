@@ -1,3 +1,12 @@
+## [4.0.0-alpha.4](https://github.com/godot-escoria/escoria-dialog-simple/compare/v0.0.0...v4.0.0-alpha.4) (2021-11-18)
+
+
+### Bug Fixes
+
+* Proofreading and edits. ([363d61d](https://github.com/godot-escoria/escoria-dialog-simple/commit/363d61d1ad2666f19a8d45fb9f7af9e03383f6e2))
+
+
+
 ## [4.0.0-alpha.3](https://github.com/godot-escoria/escoria-dialog-simple/compare/v0.0.0...v4.0.0-alpha.3) (2021-11-18)
 
 
