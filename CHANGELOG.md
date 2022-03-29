@@ -1,3 +1,7 @@
+## [4.0.0-alpha.16](https://github.com/godot-escoria/escoria-dialog-simple/compare/v0.0.0...v4.0.0-alpha.16) (2022-03-29)
+
+
+
 ## [4.0.0-alpha.4](https://github.com/godot-escoria/escoria-dialog-simple/compare/v0.0.0...v4.0.0-alpha.4) (2021-11-18)
 
 
